@@ -21,7 +21,7 @@ Teknologi yang Digunakan
 - Frontend: Blade Template + Bootstrap 5  
 - Database: MySQL  
 - Arsitektur: MVC + RESTful  
-- Tools: Composer, Node.js, npm  
+- Tools: Composer, Node.js
 - Storage: Laravel Local Storage  
 
 Cara Menjalankan Aplikasi (Lokal)
