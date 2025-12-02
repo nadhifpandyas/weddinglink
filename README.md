@@ -162,7 +162,7 @@ http://localhost/weddinglink/index.php
 
 * **Website WeddingLink:** [https://weddinglink.ct.ws/](https://weddinglink.ct.ws/)
 * **Repository GitHub:** [https://github.com/nadhifpandyas/weddinglink.git](https://github.com/nadhifpandyas/weddinglink.git)
-* **Demo Video:** [Link YouTube Demo](youtube.com/watch?si=e_FcHPadiT-vaB8F&v=IoTgQHpKeKY&feature=youtu.be)
+* **Demo Video:** [Link YouTube Demo](https://youtu.be/IoTgQHpKeKY?si=oki_KbvHfjIHZJzp)
 
 ---
 
